@@ -22,7 +22,7 @@ In order to create a desired model, the following step have been done to find th
 
 - Metrices : Evaluation the metrices to understanding the performance of the model
 
-Metrices | Value 
+Metrices | Value |
 --- | --- | --- 
 R2 | 0.78 |
 NMBE | 0.126 |
