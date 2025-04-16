@@ -54,8 +54,10 @@ pip3 install -r requirement.txt
 python3 app.py
 ```
 
-
 ```bash
 docker compose up 
 ```
 
+The webiste will plot two line graph which show the comparison between the predicted platn energy and actual plant energy. User could hover the mouse in order to check the value of particular value with other weather information.<br>
+
+<img width="824" alt="Picture1" src="https://github.com/user-attachments/assets/9d5fe3a1-c76a-4b3a-84e5-e94a87194f7c" />
