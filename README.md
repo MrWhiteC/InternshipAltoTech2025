@@ -17,20 +17,23 @@ This is the fulfillment of the test assignment from AltoTech company. The goal i
 In order to create a desired model, the following step have been done to find the feature and best model:
 
 - EDA : Observing a dataset in order to detect some pattern within the correlation between features and target.
-Temeperature and Plant Energy
-<img width="563" alt="Screenshot 2568-04-16 at 16 12 05" src="https://github.com/user-attachments/assets/bfe1d1dd-335b-4b3a-81ce-b1393bfdc9b0" />
+- 
+Temeperature and Plant Energy <br>
+<img width="563" alt="Screenshot 2568-04-16 at 16 12 05" src="https://github.com/user-attachments/assets/bfe1d1dd-335b-4b3a-81ce-b1393bfdc9b0" /><br>
 
-Humidity and Plant Energy
-<img width="566" alt="Screenshot 2568-04-16 at 16 12 15" src="https://github.com/user-attachments/assets/3b305c52-b72a-4852-abdf-cba074b903db" />
+Humidity and Plant Energy<br>
+<img width="566" alt="Screenshot 2568-04-16 at 16 12 15" src="https://github.com/user-attachments/assets/3b305c52-b72a-4852-abdf-cba074b903db" /><br>
 
-Date and Plant Energy
-<img width="625" alt="Screenshot 2568-04-16 at 16 12 26" src="https://github.com/user-attachments/assets/f46b85db-05d8-4ef1-9808-134981ac7d90" />
+Date and Plant Energy<br>
+<img width="625" alt="Screenshot 2568-04-16 at 16 12 26" src="https://github.com/user-attachments/assets/f46b85db-05d8-4ef1-9808-134981ac7d90" /><br>
 
 - Model Cross Validation and GridSearch: Pefroming a cross validation to get the best model and GridSearch for best hyperparmeter
 
-<img width="924" alt="Screenshot 2568-04-16 at 16 15 41" src="https://github.com/user-attachments/assets/28a13917-f01c-4683-8456-a800bd5d10c2" />
+Cross-Validation <br>
+<img width="924" alt="Screenshot 2568-04-16 at 16 15 41" src="https://github.com/user-attachments/assets/28a13917-f01c-4683-8456-a800bd5d10c2" /><br>
 
-<img width="543" alt="Screenshot 2568-04-16 at 16 15 50" src="https://github.com/user-attachments/assets/f7c1d69e-b920-49e0-86fd-b9b60201a1e6" />
+GridSearch <br>
+<img width="543" alt="Screenshot 2568-04-16 at 16 15 50" src="https://github.com/user-attachments/assets/f7c1d69e-b920-49e0-86fd-b9b60201a1e6" /><br>
 
 - Metrices : Evaluation the metrices to understanding the performance of the model
 
