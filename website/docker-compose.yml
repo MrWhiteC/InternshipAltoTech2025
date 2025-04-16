@@ -1,0 +1,6 @@
+services: 
+  web:
+    build: .
+    image: intern_test:1.0
+    ports:
+      - "8050:8050"
